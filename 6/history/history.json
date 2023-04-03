@@ -1,0 +1,1 @@
+{"bf8fa34ff08ee61332c5233573dd9562":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1},"items":[{"uid":"6410190e8d5135e9","reportUrl":"https://renatosoliveira.github.io/cypress-wht-allure/6//#testresult/6410190e8d5135e9","status":"passed","time":{"start":1680526388191,"stop":1680526388902,"duration":711}}]}}
