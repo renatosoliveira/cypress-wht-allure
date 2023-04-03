@@ -1,4 +1,4 @@
-name: Cypress tests dashboard
+name: Cypress run testing
 on: [push]
 jobs:
   cypress-run:
